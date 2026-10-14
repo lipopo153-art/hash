@@ -1,0 +1,31 @@
+.register {
+    width: 520px;
+    margin: auto;
+    margin-top: 20px;
+}
+.form-control {
+    border: 1px solid rgb(121, 117, 117);
+}
+.btn {
+    margin-top: 20px;
+}
+.card {
+    border: 1px solid black;
+}
+.card-body {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+
+main {
+    width: 900px;
+    margin: auto;
+    gap: 15px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr)
+}
+.Welcome {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}

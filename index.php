@@ -14,7 +14,7 @@
     <div class="col-sm-10">
       <input type="login" class="form-control" id="login">
     </div>
-  </div>   
+  </div>      
   <div class="register">
     <label for="inputEmail3" class="col-sm-2 col-form-label">Эл. почта</label>
     <div class="col-sm-10">
